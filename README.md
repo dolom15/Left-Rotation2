@@ -1,1 +1,1 @@
-# Left-Rotation2
+# Left-Rotation2 This code performs a left rotation on an integer array `arr` by `d` positions by slicing and rearranging the list in the `rotateLeft` function. The `Main` method handles input/output, reading the array and rotation count, then prints the rotated array.
